@@ -1,0 +1,154 @@
+[
+  {
+    "id": "calcyom",
+    "title": "Whiting events in the world's lakes",
+    "acronym": "CALCYOM",
+    "status": "ongoing",
+    "years": "",
+    "theme": "optics",
+    "summary": "Detecting whitings — sudden calcite precipitation that turns lakes milky — across thousands of lakes in the ESA CCI Lakes reflectance record, to map where and when they happen and what drives them.",
+    "details": "A robust detection pipeline combines seasonal harmonic baselines, anomaly detection on blue–green–red reflectance and brightness, and spectral confirmation tests, followed by a machine-learning classifier on event features.",
+    "partners": "",
+    "links": []
+  },
+  {
+    "id": "drying-lakes",
+    "title": "Carbon in drying lakes",
+    "acronym": "",
+    "status": "ongoing",
+    "years": "2026 –",
+    "theme": "production",
+    "summary": "How hydrological contraction and exposed sediments reshape the carbon budget of shrinking lakes: primary production, pelagic calcification and carbon emissions, with an optical remote sensing component. Field expedition to the Caspian Sea planned for May–June 2027.",
+    "details": "Includes a ¹³C protocol to measure primary production and pelagic calcification simultaneously during short in situ incubations.",
+    "partners": "",
+    "links": []
+  },
+  {
+    "id": "goaquaflux",
+    "title": "Separating bubbles from diffusion in chamber fluxes",
+    "acronym": "goAquaFlux",
+    "status": "ongoing",
+    "years": "",
+    "theme": "carbon",
+    "summary": "An aquatic extension of the goFlux R package that processes floating-chamber CO₂ and CH₄ measurements and separates ebullitive from diffusive flux automatically, tested on synthetic and around 800 real incubations.",
+    "details": "",
+    "partners": "goFlux developers",
+    "links": [
+      {
+        "label": "goFlux on GitHub",
+        "url": "https://github.com/Qepanna/goFlux"
+      }
+    ]
+  },
+  {
+    "id": "ripple-to-release",
+    "title": "Lake surface roughness and gas exchange from radar",
+    "acronym": "Ripple to Release",
+    "status": "ongoing",
+    "years": "",
+    "theme": "carbon",
+    "summary": "A GLEON collaborative project testing whether SAR imagery can map lake surface roughness and, combined with mixed-layer depth, serve as a proxy for the gas-exchange coefficient — a major source of uncertainty in lake emission estimates.",
+    "details": "",
+    "partners": "GLEON",
+    "links": []
+  },
+  {
+    "id": "lakesat",
+    "title": "Colour and water quality of Pyrenean high-mountain lakes",
+    "acronym": "LAKeSAT",
+    "status": "ongoing",
+    "years": "",
+    "theme": "optics",
+    "summary": "Sentinel-2 time series of water colour, chlorophyll and suspended matter for hundreds of high-mountain lakes in the Pyrenees, paired with decades of in situ chemistry to detect long-term trends.",
+    "details": "In situ records show consistent declines in nitrate and rising alkalinity, in line with recovery from acid deposition.",
+    "partners": "",
+    "links": []
+  },
+  {
+    "id": "salbia",
+    "title": "Saline fronts along the River Gambia",
+    "acronym": "SALBIA",
+    "status": "ongoing",
+    "years": "",
+    "theme": "optics",
+    "summary": "Tracking the position of the saline front along the River Gambia over four decades with harmonised Landsat and Sentinel-2 imagery, and linking salinity to carbon cycling along the estuary.",
+    "details": "",
+    "partners": "",
+    "links": []
+  },
+  {
+    "id": "internal-waves",
+    "title": "Lake metabolism under internal waves",
+    "acronym": "",
+    "status": "ongoing",
+    "years": "",
+    "theme": "production",
+    "summary": "Estimating gross primary production, respiration and net ecosystem production from high-frequency oxygen profiles, after correcting the oxygen signal for internal-wave motion. Applied to Gergal reservoir.",
+    "details": "",
+    "partners": "",
+    "links": []
+  },
+  {
+    "id": "canary-streams",
+    "title": "Hydrological regimes of Canary Islands streams",
+    "acronym": "",
+    "status": "ongoing",
+    "years": "",
+    "theme": "catchments",
+    "summary": "Characterising flow intermittency in Canary Islands streams by combining water-presence sensors, interviews, citizen observations and aerial photographs, and relating regimes to macroinvertebrate communities.",
+    "details": "",
+    "partners": "",
+    "links": []
+  },
+  {
+    "id": "leman-production",
+    "title": "Primary production and optics of Lake Geneva",
+    "acronym": "LéXPLORE",
+    "status": "completed",
+    "years": "2018 – 2022",
+    "theme": "production",
+    "summary": "Using high-frequency optical profiles and oxygen measurements on the LéXPLORE platform to diagnose primary production and ecosystem metabolism in a large, deep lake.",
+    "details": "",
+    "partners": "EPFL APHYS",
+    "links": [
+      {
+        "label": "Paper in ES&T",
+        "url": "https://doi.org/10.1021/acs.est.1c02585"
+      }
+    ]
+  },
+  {
+    "id": "australia-wq",
+    "title": "River water quality across the Australian continent",
+    "acronym": "",
+    "status": "completed",
+    "years": "2020 – 2025",
+    "theme": "catchments",
+    "summary": "Bayesian analyses of concentration–discharge relationships and two decades of water-quality trends in Australian rivers, revealing deterioration in Great Barrier Reef catchments and recovery in the Murray–Darling Basin.",
+    "details": "",
+    "partners": "",
+    "links": [
+      {
+        "label": "Paper in Commun. Earth Environ.",
+        "url": "https://doi.org/10.1038/s43247-025-02044-3"
+      }
+    ]
+  },
+  {
+    "id": "loire",
+    "title": "Eutrophication of the Loire River",
+    "acronym": "QUAL-NET",
+    "status": "completed",
+    "years": "2012 – 2021",
+    "theme": "catchments",
+    "summary": "Modelling and long-term analysis of phytoplankton, nutrients and invasive clams in one of Europe's largest rivers, including the QUAL-NET high-resolution eutrophication model developed during my PhD.",
+    "details": "",
+    "partners": "Université de Tours",
+    "links": [
+      {
+        "label": "QUAL-NET in Biogeosciences",
+        "url": "https://doi.org/10.5194/bg-15-2251-2018"
+      }
+    ]
+  }
+]

@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Camille Minaudo — Limnology and aquatic remote sensing</title>
+  <meta name="description" content="Camille Minaudo, postdoctoral researcher in Ecology at the Universitat de Barcelona. Limnology, optical remote sensing of inland waters, carbon and greenhouse-gas fluxes.">
+  <meta property="og:title" content="Camille Minaudo — Limnology and aquatic remote sensing">
+  <meta property="og:description" content="Research, projects and publications on lakes, rivers and their carbon cycle.">
+  <meta property="og:type" content="profile">
+  <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,400;0,500;0,600;1,400&family=Spectral:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+
+  <header class="topbar">
+    <div class="wrap topbar__inner">
+      <a class="brand" href="#top" aria-label="Back to top">Camille Minaudo</a>
+      <nav class="nav" aria-label="Sections">
+        <a href="#research">Research</a>
+        <a href="#projects">Projects</a>
+        <a href="#publications">Publications</a>
+        <a href="#tools">Tools &amp; teaching</a>
+        <a href="#about">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="hero" id="top">
+      <div class="wrap hero__grid">
+        <div class="hero__text">
+          <h1 class="hero__name" data-bind="name">Camille Minaudo</h1>
+          <p class="hero__statement" data-bind="statement">I study how lakes and rivers change colour, breathe and exchange carbon, from satellite pixels down to floating chambers.</p>
+          <p class="hero__role"><span data-bind="role">Postdoctoral researcher in Ecology</span>, <a data-bind="affiliation" href="https://www.ub.edu">Universitat de Barcelona</a></p>
+          <ul class="hero__links" id="profile-links"></ul>
+        </div>
+        <figure class="portrait" id="portrait">
+          <span class="portrait__fallback" aria-hidden="true">CM</span>
+        </figure>
+      </div>
+
+      <div class="wrap">
+        <div class="fu" id="fu" role="img" aria-label="The Forel-Ule scale of 21 natural water colours, from deep blue to brown"></div>
+        <p class="fu__caption" id="fu-caption">The Forel-Ule scale: 21 natural water colours, from open-water blue to humic brown. The colours on this page come from it.</p>
+      </div>
+    </section>
+
+    <section class="section" id="research" aria-labelledby="research-h">
+      <div class="wrap">
+        <h2 id="research-h">Research</h2>
+        <div class="themes" id="themes"></div>
+      </div>
+    </section>
+
+    <section class="section" id="projects" aria-labelledby="projects-h">
+      <div class="wrap">
+        <div class="section__head">
+          <h2 id="projects-h">Projects</h2>
+          <div class="filters" role="group" aria-label="Filter projects">
+            <div class="seg" id="project-status">
+              <button type="button" data-status="ongoing" aria-pressed="true">Ongoing</button>
+              <button type="button" data-status="completed" aria-pressed="false">Completed</button>
+              <button type="button" data-status="all" aria-pressed="false">All</button>
+            </div>
+            <label class="select">
+              <span class="visually-hidden">Theme</span>
+              <select id="project-theme"><option value="all">All themes</option></select>
+            </label>
+          </div>
+        </div>
+        <ol class="projects" id="project-list"></ol>
+      </div>
+    </section>
+
+    <section class="section" id="news" aria-labelledby="news-h">
+      <div class="wrap narrow">
+        <h2 id="news-h">Latest</h2>
+        <ol class="news" id="news-list"></ol>
+      </div>
+    </section>
+
+    <section class="section" id="publications" aria-labelledby="pubs-h">
+      <div class="wrap">
+        <div class="section__head">
+          <h2 id="pubs-h">Publications</h2>
+          <p class="pubs__stats" id="pub-stats"></p>
+        </div>
+
+        <div class="featured" id="featured" hidden>
+          <h3>Selected</h3>
+          <ol class="pubs" id="featured-list"></ol>
+        </div>
+
+        <div class="pubs__tools">
+          <label class="search">
+            <span class="visually-hidden">Search publications</span>
+            <input type="search" id="pub-search" placeholder="Search titles, journals, co-authors" autocomplete="off">
+          </label>
+          <div class="seg" id="pub-filter" role="group" aria-label="Publication type">
+            <button type="button" data-filter="peer" aria-pressed="true">Peer-reviewed</button>
+            <button type="button" data-filter="first" aria-pressed="false">First author</button>
+            <button type="button" data-filter="all" aria-pressed="false">Everything</button>
+          </div>
+        </div>
+        <div id="pub-list" aria-live="polite"></div>
+        <p class="pubs__source" id="pub-source"></p>
+      </div>
+    </section>
+
+    <section class="section" id="tools" aria-labelledby="tools-h">
+      <div class="wrap">
+        <h2 id="tools-h">Tools &amp; teaching</h2>
+        <ul class="tools" id="tools-list"></ul>
+      </div>
+    </section>
+
+    <section class="section" id="about" aria-labelledby="about-h">
+      <div class="wrap about">
+        <div class="about__bio">
+          <h2 id="about-h">About</h2>
+          <div id="bio"></div>
+          <div id="community"></div>
+        </div>
+        <div class="about__cv">
+          <h3>Path</h3>
+          <ol class="path" id="positions"></ol>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap footer__inner">
+      <p><span data-bind="name">Camille Minaudo</span>, <span data-bind="location">Barcelona</span></p>
+      <p id="footer-contact"></p>
+      <p class="footer__updated" id="updated"></p>
+    </div>
+  </footer>
+
+  <noscript><p class="wrap">This page needs JavaScript to show projects and publications.</p></noscript>
+  <script src="assets/js/main.js" defer></script>
+</body>
+</html>

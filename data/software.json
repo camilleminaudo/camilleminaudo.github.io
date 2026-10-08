@@ -1,0 +1,20 @@
+[
+  {
+    "kind": "Software",
+    "title": "goFlux / goAquaFlux",
+    "text": "R package for chamber-based greenhouse-gas flux calculation. I develop its aquatic extension for floating chambers, including automatic bubble detection.",
+    "url": "https://github.com/Qepanna/goFlux"
+  },
+  {
+    "kind": "Teaching",
+    "title": "High-frequency GHG fluxes in aquatic ecosystems",
+    "text": "Full-day GLEON workshop comparing manual and automated flux processing, with participants quantifying analyst subjectivity on shared data.",
+    "url": ""
+  },
+  {
+    "kind": "Teaching",
+    "title": "Google Earth Engine for limnologists",
+    "text": "Four-activity beginner workshop: Sentinel-2 exploration, water masking, water-area time series and water-quality proxies.",
+    "url": ""
+  }
+]

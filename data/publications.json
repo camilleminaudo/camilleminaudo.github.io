@@ -1,0 +1,462 @@
+{
+  "source": "Seeded from Crossref — replaced automatically by the weekly ORCID update",
+  "updated": "2026-10-08",
+  "items": [
+    {
+      "title": "Global trends in river eutrophication and oligotrophication: A systematic review",
+      "authors": [
+        "Duc Thinh NV",
+        "Tóth F",
+        "Benito X",
+        "Minaudo C",
+        "Abonyi A"
+      ],
+      "year": 2026,
+      "journal": "EGU General Assembly 2026",
+      "doi": "10.5194/egusphere-egu26-21138",
+      "url": "https://doi.org/10.5194/egusphere-egu26-21138",
+      "type": "abstract"
+    },
+    {
+      "title": "Latest updates to the goFlux R package: new functionalities and improvements",
+      "authors": [
+        "Rheault K",
+        "Minaudo C",
+        "Christiansen JR",
+        "Larsen KS"
+      ],
+      "year": 2026,
+      "journal": "EGU General Assembly 2026",
+      "doi": "10.5194/egusphere-egu26-8947",
+      "url": "https://doi.org/10.5194/egusphere-egu26-8947",
+      "type": "abstract"
+    },
+    {
+      "title": "River oligotrophication under global change: A systematic review of long-term nutrient trends and biological responses",
+      "authors": [
+        "Thịnh NVĐ",
+        "Minaudo C",
+        "Benito X",
+        "Tóth F",
+        "Abonyi A"
+      ],
+      "year": 2026,
+      "journal": "Ecological Indicators",
+      "doi": "10.1016/j.ecolind.2026.115456",
+      "url": "https://doi.org/10.1016/j.ecolind.2026.115456",
+      "type": "article"
+    },
+    {
+      "title": "Salinity-driven controls on carbon cycling along the Gambia River (West Africa)",
+      "authors": [
+        "Bisbal Regidor E",
+        "Stegehuis A",
+        "von Schiller D",
+        "Minaudo C",
+        "Faal MJ",
+        "Nkamnebe A",
+        "Rodríguez-Lozano P",
+        "Catalán García N"
+      ],
+      "year": 2026,
+      "journal": "EGU General Assembly 2026",
+      "doi": "10.5194/egusphere-egu26-21243",
+      "url": "https://doi.org/10.5194/egusphere-egu26-21243",
+      "type": "abstract"
+    },
+    {
+      "title": "Australian water quality trends over two decades show deterioration in the Great Barrier Reef region and recovery in the Murray-Darling Basin",
+      "authors": [
+        "Guo D",
+        "Zhang Q",
+        "Minaudo C",
+        "Dupas R",
+        "Duvert C",
+        "Liu S",
+        "Zhang K",
+        "Bende-Michl U",
+        "Lintern A"
+      ],
+      "year": 2025,
+      "journal": "Communications Earth & Environment",
+      "doi": "10.1038/s43247-025-02044-3",
+      "url": "https://doi.org/10.1038/s43247-025-02044-3",
+      "type": "article"
+    },
+    {
+      "title": "Remote Sensing of Sun-Induced Fluorescence in a Deep Lake: Disentangling Quenching Mechanisms Improves Relationship With Chlorophyll-a Concentration Estimates",
+      "authors": [
+        "Gupana RS",
+        "Odermatt D",
+        "Rahaghi AI",
+        "Minaudo C",
+        "Werther M",
+        "Giardino C",
+        "Damm A"
+      ],
+      "year": 2025,
+      "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+      "doi": "10.1109/jstars.2025.3528911",
+      "url": "https://doi.org/10.1109/jstars.2025.3528911",
+      "type": "article"
+    },
+    {
+      "title": "Meroplanktic phytoplankton play a crucial role in responding to peak discharge events in the middle lowland section of the Loire River (France)",
+      "authors": [
+        "Pannard A",
+        "Minaudo C",
+        "Leitao M",
+        "Abonyi A",
+        "Moatar F",
+        "Gassama N"
+      ],
+      "year": 2023,
+      "journal": "Hydrobiologia",
+      "doi": "10.1007/s10750-023-05420-2",
+      "url": "https://doi.org/10.1007/s10750-023-05420-2",
+      "type": "article"
+    },
+    {
+      "title": "A Bayesian data assimilation framework for lake 3D hydrodynamic models with a physics-preserving particle filtering method using SPUX-MITgcm v1",
+      "authors": [
+        "Safin A",
+        "Bouffard D",
+        "Ozdemir F",
+        "Ramón CL",
+        "Runnalls J",
+        "Georgatos F",
+        "Minaudo C",
+        "Šukys J"
+      ],
+      "year": 2022,
+      "journal": "Geoscientific Model Development",
+      "doi": "10.5194/gmd-15-7715-2022",
+      "url": "https://doi.org/10.5194/gmd-15-7715-2022",
+      "type": "article"
+    },
+    {
+      "title": "Controls on Spatial Variability in Mean Concentrations and Export Patterns of River Chemistry Across the Australian Continent",
+      "authors": [
+        "Liu S",
+        "Dupas R",
+        "Guo D",
+        "Lintern A",
+        "Minaudo C",
+        "Bende-Michl U",
+        "Zhang K",
+        "Duvert C"
+      ],
+      "year": 2022,
+      "journal": "Water Resources Research",
+      "doi": "10.1029/2022wr032365",
+      "url": "https://doi.org/10.1029/2022wr032365",
+      "type": "article"
+    },
+    {
+      "title": "Model-Based Clustering of Trends and Cycles of Nitrate Concentrations in Rivers Across France",
+      "authors": [
+        "Heiner M",
+        "Heaton MJ",
+        "Abbott B",
+        "White P",
+        "Minaudo C",
+        "Dupas R"
+      ],
+      "year": 2022,
+      "journal": "Journal of Agricultural, Biological and Environmental Statistics",
+      "doi": "10.1007/s13253-022-00513-2",
+      "url": "https://doi.org/10.1007/s13253-022-00513-2",
+      "type": "article"
+    },
+    {
+      "title": "Non-photochemical quenching estimates from in situ spectroradiometer measurements: implications on remote sensing of sun-induced chlorophyll fluorescence in lakes",
+      "authors": [
+        "Gupana RS",
+        "Damm A",
+        "Rahaghi AI",
+        "Minaudo C",
+        "Odermatt D"
+      ],
+      "year": 2022,
+      "journal": "Optics Express",
+      "doi": "10.1364/oe.469402",
+      "url": "https://doi.org/10.1364/oe.469402",
+      "type": "article"
+    },
+    {
+      "title": "Synthesizing the impacts of baseflow contribution on concentration–discharge (C–Q) relationships across Australia using a Bayesian hierarchical model",
+      "authors": [
+        "Guo D",
+        "Minaudo C",
+        "Lintern A",
+        "Bende-Michl U",
+        "Liu S",
+        "Zhang K",
+        "Duvert C"
+      ],
+      "year": 2022,
+      "journal": "Hydrology and Earth System Sciences",
+      "doi": "10.5194/hess-26-1-2022",
+      "url": "https://doi.org/10.5194/hess-26-1-2022",
+      "type": "article"
+    },
+    {
+      "title": "Long-term impacts of nutrient control, climate change, and invasive clams on phytoplankton and cyanobacteria biomass in a large temperate river",
+      "authors": [
+        "Minaudo C",
+        "Abonyi A",
+        "Leitão M",
+        "Lançon AM",
+        "Floury M",
+        "Descy JP",
+        "Moatar F"
+      ],
+      "year": 2021,
+      "journal": "Science of The Total Environment",
+      "doi": "10.1016/j.scitotenv.2020.144074",
+      "url": "https://doi.org/10.1016/j.scitotenv.2020.144074",
+      "type": "article"
+    },
+    {
+      "title": "Model-based data analysis of the effect of winter mixing on primary production in a lake under reoligotrophication",
+      "authors": [
+        "Krishna S",
+        "Ulloa HN",
+        "Kerimoglu O",
+        "Minaudo C",
+        "Anneville O",
+        "Wüest A"
+      ],
+      "year": 2021,
+      "journal": "Ecological Modelling",
+      "doi": "10.1016/j.ecolmodel.2020.109401",
+      "url": "https://doi.org/10.1016/j.ecolmodel.2020.109401",
+      "type": "article"
+    },
+    {
+      "title": "Optical Closure of Remote Sensing Reflectance Using Automated Hyperspectral Profiler Data",
+      "authors": [
+        "Rahaghi AI",
+        "Minaudo C",
+        "Damm A",
+        "Odermatt D"
+      ],
+      "year": 2021,
+      "journal": "IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
+      "doi": "10.1109/igarss47720.2021.9554464",
+      "url": "https://doi.org/10.1109/igarss47720.2021.9554464",
+      "type": "proceedings"
+    },
+    {
+      "title": "Primary and Net Ecosystem Production in a Large Lake Diagnosed From High-Resolution Oxygen Measurements",
+      "authors": [
+        "Fernández Castro B",
+        "Chmiel HE",
+        "Minaudo C",
+        "Krishna S",
+        "Perolo P",
+        "Rasconi S",
+        "Wüest A"
+      ],
+      "year": 2021,
+      "journal": "Water Resources Research",
+      "doi": "10.1029/2020wr029283",
+      "url": "https://doi.org/10.1029/2020wr029283",
+      "type": "article"
+    },
+    {
+      "title": "Remote sensing of fluorescence in inland waters: improvements from using hyperspectral data",
+      "authors": [
+        "Gupana RS",
+        "Odermatt D",
+        "Rahaghi AI",
+        "Minaudo C",
+        "Damm A"
+      ],
+      "year": 2021,
+      "journal": "Proc. SPIE, Remote Sensing of the Ocean, Sea Ice, Coastal Waters, and Large Water Regions",
+      "doi": "10.1117/12.2599128",
+      "url": "https://doi.org/10.1117/12.2599128",
+      "type": "proceedings"
+    },
+    {
+      "title": "Spatio-temporal controls of C–N–P dynamics across headwater catchments of a temperate agricultural region from public data analysis",
+      "authors": [
+        "Guillemot S",
+        "Fovet O",
+        "Gascuel-Odoux C",
+        "Gruau G",
+        "Casquin A",
+        "Curie F",
+        "Minaudo C",
+        "Strohmenger L",
+        "Moatar F"
+      ],
+      "year": 2021,
+      "journal": "Hydrology and Earth System Sciences",
+      "doi": "10.5194/hess-25-2491-2021",
+      "url": "https://doi.org/10.5194/hess-25-2491-2021",
+      "type": "article"
+    },
+    {
+      "title": "The Imprint of Primary Production on High-Frequency Profiles of Lake Optical Properties",
+      "authors": [
+        "Minaudo C",
+        "Odermatt D",
+        "Bouffard D",
+        "Rahaghi AI",
+        "Lavanchy S",
+        "Wüest A"
+      ],
+      "year": 2021,
+      "journal": "Environmental Science & Technology",
+      "doi": "10.1021/acs.est.1c02585",
+      "url": "https://doi.org/10.1021/acs.est.1c02585",
+      "type": "article"
+    },
+    {
+      "title": "The influence of climate on water chemistry states and dynamics in rivers across Australia",
+      "authors": [
+        "Lintern A",
+        "Liu S",
+        "Minaudo C",
+        "Dupas R",
+        "Guo D",
+        "Zhang K",
+        "Bende-Michl U",
+        "Duvert C"
+      ],
+      "year": 2021,
+      "journal": "Hydrological Processes",
+      "doi": "10.1002/hyp.14423",
+      "url": "https://doi.org/10.1002/hyp.14423",
+      "type": "article"
+    },
+    {
+      "title": "Adapting the dynamic LakeMab model to simulate seasonal variations of phosphorus concentration in reservoirs: a case study of Lake Bultière (France)",
+      "authors": [
+        "Roubeix V",
+        "Minaudo C",
+        "Prats J",
+        "Reynaud N",
+        "Zhang Q",
+        "Moatar F",
+        "Danis PA"
+      ],
+      "year": 2020,
+      "journal": "Limnology",
+      "doi": "10.1007/s10201-019-00606-x",
+      "url": "https://doi.org/10.1007/s10201-019-00606-x",
+      "type": "article"
+    },
+    {
+      "title": "Distribution of Landscape Units Within Catchments Influences Nutrient Export Dynamics",
+      "authors": [
+        "Dupas R",
+        "Abbott BW",
+        "Minaudo C",
+        "Fovet O"
+      ],
+      "year": 2019,
+      "journal": "Frontiers in Environmental Science",
+      "doi": "10.3389/fenvs.2019.00043",
+      "url": "https://doi.org/10.3389/fenvs.2019.00043",
+      "type": "article"
+    },
+    {
+      "title": "Seasonal and event-based concentration-discharge relationships to identify catchment controls on nutrient export regimes",
+      "authors": [
+        "Minaudo C",
+        "Dupas R",
+        "Gascuel-Odoux C",
+        "Roubeix V",
+        "Danis PA",
+        "Moatar F"
+      ],
+      "year": 2019,
+      "journal": "Advances in Water Resources",
+      "doi": "10.1016/j.advwatres.2019.103379",
+      "url": "https://doi.org/10.1016/j.advwatres.2019.103379",
+      "type": "article"
+    },
+    {
+      "title": "Stability of spatial patterns in water chemistry across temperate ecoregions",
+      "authors": [
+        "Dupas R",
+        "Minaudo C",
+        "Abbott BW"
+      ],
+      "year": 2019,
+      "journal": "Environmental Research Letters",
+      "doi": "10.1088/1748-9326/ab24f4",
+      "url": "https://doi.org/10.1088/1748-9326/ab24f4",
+      "type": "article"
+    },
+    {
+      "title": "Multidecadal Trajectory of Riverine Nitrogen and Phosphorus Dynamics in Rural Catchments",
+      "authors": [
+        "Dupas R",
+        "Minaudo C",
+        "Gruau G",
+        "Ruiz L",
+        "Gascuel-Odoux C"
+      ],
+      "year": 2018,
+      "journal": "Water Resources Research",
+      "doi": "10.1029/2018wr022905",
+      "url": "https://doi.org/10.1029/2018wr022905",
+      "type": "article"
+    },
+    {
+      "title": "Nutrient inputs and hydrology together determine biogeochemical status of the Loire River (France): Current situation and possible future scenarios",
+      "authors": [
+        "Garnier J",
+        "Ramarson A",
+        "Billen G",
+        "Théry S",
+        "Thiéry D",
+        "Thieu V",
+        "Minaudo C",
+        "Moatar F"
+      ],
+      "year": 2018,
+      "journal": "Science of The Total Environment",
+      "doi": "10.1016/j.scitotenv.2018.05.045",
+      "url": "https://doi.org/10.1016/j.scitotenv.2018.05.045",
+      "type": "article"
+    },
+    {
+      "title": "QUAL-NET, a high temporal-resolution eutrophication model for large hydrographic networks",
+      "authors": [
+        "Minaudo C",
+        "Curie F",
+        "Jullian Y",
+        "Gassama N",
+        "Moatar F"
+      ],
+      "year": 2018,
+      "journal": "Biogeosciences",
+      "doi": "10.5194/bg-15-2251-2018",
+      "url": "https://doi.org/10.5194/bg-15-2251-2018",
+      "type": "article"
+    },
+    {
+      "title": "Nonlinear empirical modeling to estimate phosphorus exports using continuous records of turbidity and discharge",
+      "authors": [
+        "Minaudo C",
+        "Dupas R",
+        "Gascuel-Odoux C",
+        "Fovet O",
+        "Mellander PE",
+        "Jordan P",
+        "Shore M",
+        "Moatar F"
+      ],
+      "year": 2017,
+      "journal": "Water Resources Research",
+      "doi": "10.1002/2017wr020590",
+      "url": "https://doi.org/10.1002/2017wr020590",
+      "type": "article"
+    }
+  ]
+}

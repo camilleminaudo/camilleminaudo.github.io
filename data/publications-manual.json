@@ -1,0 +1,16 @@
+{
+  "_help": "Add items that are not (yet) on ORCID: accepted papers, theses, reports. Same fields as publications.json. 'type' is one of article, preprint, proceedings, chapter, thesis, report, data, software, abstract.",
+  "items": [
+    {
+      "title": "Analyse et modélisation de l'eutrophisation de la Loire",
+      "authors": [
+        "Minaudo C"
+      ],
+      "year": 2015,
+      "journal": "PhD thesis, Université de Tours",
+      "doi": "10.70675/27766e25zb577z4ab1z93e5z021d7a7efd78",
+      "url": "https://doi.org/10.70675/27766e25zb577z4ab1z93e5z021d7a7efd78",
+      "type": "thesis"
+    }
+  ]
+}
