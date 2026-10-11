@@ -6,19 +6,19 @@
   "location": "Barcelona",
   "statement": "I study how lakes and rivers change colour, breathe and exchange carbon, from satellite pixels down to floating chambers.",
   "bio": [
-    "I'm a limnologist working at the interface of optical remote sensing, aquatic biogeochemistry and greenhouse-gas fluxes. My current work combines satellite archives with high-frequency field measurements to understand how inland waters respond to warming, nutrient change and drought.",
+    "I'm a limnologist working at the interface of optical remote sensing and aquatic biogeochemistry. My current work combines satellite archives with high-frequency field measurements to understand how inland waters respond to warming, nutrient change and drought.",
     "I trained in hydrology and water-quality modelling, did my PhD on the eutrophication of the Loire River, and later worked on Lake Geneva's primary production and optical properties at EPFL. I'm now based at the University of Barcelona, where I work across French, Spanish, Catalan and English."
   ],
   "orcid": "0000-0003-0979-9595",
   "email": "",
   "links": [
     { "label": "ORCID", "url": "https://orcid.org/0000-0003-0979-9595" },
-    { "label": "Google Scholar", "url": "" },
-    { "label": "GitHub", "url": "" },
-    { "label": "LinkedIn", "url": "" },
+    { "label": "Google Scholar", "url": "https://scholar.google.ch/citations?user=4zNwOlcAAAAJ&hl=fr" },
+    { "label": "GitHub", "url": "https://github.com/camilleminaudo" },
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/camille-minaudo-513b9b252/?isSelfProfile=true" },
     { "label": "CV (PDF)", "url": "" }
   ],
-  "portrait": "assets/img/portrait.jpg",
+  "portrait": "assets/img/CamilleMinaudo_square.jpg",
   "themes": [
     {
       "id": "optics",
@@ -30,7 +30,7 @@
       "id": "carbon",
       "title": "Carbon and greenhouse-gas fluxes",
       "fu": 5,
-      "text": "Measuring CO₂ and CH₄ exchange with floating chambers, separating ebullition from diffusion, and building open tools to process flux data reproducibly."
+      "text": "Measuring CO_2 and CH_4 exchange with floating chambers, separating ebullition from diffusion, and building open tools to process flux data reproducibly."
     },
     {
       "id": "production",
@@ -42,7 +42,7 @@
       "id": "catchments",
       "title": "Rivers, catchments and water quality",
       "fu": 19,
-      "text": "Linking nutrient export, hydrology and long-term trends across river networks, from the Loire to the Australian continent."
+      "text": "Linking nutrient export, hydrology and long-term trends across river networks at the global scale."
     }
   ],
   "featured_publications": [
@@ -61,6 +61,6 @@
     { "years": "2008 – 2011", "title": "MSc Hydraulics and Hydrology", "place": "Grenoble INP, France" }
   ],
   "community": [
-    { "title": "Co-chair, GLEON Postdoctoral Association", "text": "Organising events and working with the GLEON steering committee on how members experience belonging in the network." }
+    { "title": "Co-chair, GLEON Postdoctoral Association (2025-2027)", "text": "Organising events and working with the GLEON steering committee." }
   ]
 }

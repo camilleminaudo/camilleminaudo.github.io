@@ -4,11 +4,11 @@
     "title": "Whiting events in the world's lakes",
     "acronym": "CALCYOM",
     "status": "ongoing",
-    "years": "",
+    "years": "2024 -",
     "theme": "optics",
     "summary": "Detecting whitings — sudden calcite precipitation that turns lakes milky — across thousands of lakes in the ESA CCI Lakes reflectance record, to map where and when they happen and what drives them.",
     "details": "A robust detection pipeline combines seasonal harmonic baselines, anomaly detection on blue–green–red reflectance and brightness, and spectral confirmation tests, followed by a machine-learning classifier on event features.",
-    "partners": "",
+    "partners": "Plymouth Marine Laboratory (Stefan Simis)",
     "links": []
   },
   {
@@ -18,9 +18,9 @@
     "status": "ongoing",
     "years": "2026 –",
     "theme": "production",
-    "summary": "How hydrological contraction and exposed sediments reshape the carbon budget of shrinking lakes: primary production, pelagic calcification and carbon emissions, with an optical remote sensing component. Field expedition to the Caspian Sea planned for May–June 2027.",
-    "details": "Includes a ¹³C protocol to measure primary production and pelagic calcification simultaneously during short in situ incubations.",
-    "partners": "",
+    "summary": "How hydrological contraction and exposed sediments reshape the carbon budget of shrinking lakes.",
+    "details": "Primary production, pelagic calcification and carbon emissions, with an optical remote sensing component.",
+    "partners": "Projectt PIs: Rafael Marcé (CEAB-CSIC), Daniel von Schiller (UB), Biel Obrador (UB), Enrique Moreno Ostos (UMA)",
     "links": []
   },
   {
@@ -32,7 +32,7 @@
     "theme": "carbon",
     "summary": "An aquatic extension of the goFlux R package that processes floating-chamber CO₂ and CH₄ measurements and separates ebullitive from diffusive flux automatically, tested on synthetic and around 800 real incubations.",
     "details": "",
-    "partners": "goFlux developers",
+    "partners": "goFlux developers (Karelle Rheault)",
     "links": [
       {
         "label": "goFlux on GitHub",
@@ -41,27 +41,15 @@
     ]
   },
   {
-    "id": "ripple-to-release",
-    "title": "Lake surface roughness and gas exchange from radar",
-    "acronym": "Ripple to Release",
-    "status": "ongoing",
-    "years": "",
-    "theme": "carbon",
-    "summary": "A GLEON collaborative project testing whether SAR imagery can map lake surface roughness and, combined with mixed-layer depth, serve as a proxy for the gas-exchange coefficient — a major source of uncertainty in lake emission estimates.",
-    "details": "",
-    "partners": "GLEON",
-    "links": []
-  },
-  {
     "id": "lakesat",
     "title": "Colour and water quality of Pyrenean high-mountain lakes",
     "acronym": "LAKeSAT",
     "status": "ongoing",
     "years": "",
     "theme": "optics",
-    "summary": "Sentinel-2 time series of water colour, chlorophyll and suspended matter for hundreds of high-mountain lakes in the Pyrenees, paired with decades of in situ chemistry to detect long-term trends.",
+    "summary": "Sentinel-2 and Landsat-7-8-9 time series of water colour, chlorophyll and suspended matter for hundreds of high-mountain lakes in the Pyrenees, paired with decades of in situ chemistry to detect long-term trends.",
     "details": "In situ records show consistent declines in nitrate and rising alkalinity, in line with recovery from acid deposition.",
-    "partners": "",
+    "partners": "Lluís Gomez Gener (IDAEA-CSIC), María Isabel Farinha (IDAEA-CSIC)",
     "links": []
   },
   {
@@ -69,35 +57,11 @@
     "title": "Saline fronts along the River Gambia",
     "acronym": "SALBIA",
     "status": "ongoing",
-    "years": "",
+    "years": "2024-2027",
     "theme": "optics",
     "summary": "Tracking the position of the saline front along the River Gambia over four decades with harmonised Landsat and Sentinel-2 imagery, and linking salinity to carbon cycling along the estuary.",
     "details": "",
-    "partners": "",
-    "links": []
-  },
-  {
-    "id": "internal-waves",
-    "title": "Lake metabolism under internal waves",
-    "acronym": "",
-    "status": "ongoing",
-    "years": "",
-    "theme": "production",
-    "summary": "Estimating gross primary production, respiration and net ecosystem production from high-frequency oxygen profiles, after correcting the oxygen signal for internal-wave motion. Applied to Gergal reservoir.",
-    "details": "",
-    "partners": "",
-    "links": []
-  },
-  {
-    "id": "canary-streams",
-    "title": "Hydrological regimes of Canary Islands streams",
-    "acronym": "",
-    "status": "ongoing",
-    "years": "",
-    "theme": "catchments",
-    "summary": "Characterising flow intermittency in Canary Islands streams by combining water-presence sensors, interviews, citizen observations and aerial photographs, and relating regimes to macroinvertebrate communities.",
-    "details": "",
-    "partners": "",
+    "partners": "Núria Catalán (CEAB-CSIC), Miguel Cañedo (IDAEA-CSIC), Pablo Rodriguez (UAM)",
     "links": []
   },
   {
@@ -112,8 +76,16 @@
     "partners": "EPFL APHYS",
     "links": [
       {
-        "label": "Paper in ES&T",
+        "label": "Minaudo et al., ES&T, 2021",
         "url": "https://doi.org/10.1021/acs.est.1c02585"
+      },
+	  {
+        "label": "Fernandez-Castro et al., WRR, 2021",
+        "url": "https://doi.org/10.1029/2020WR029283"
+      },
+	  {
+        "label": "Gupana et al., Optics Express, 2022",
+        "url": "https://doi.org/10.1364/OE.469402"
       }
     ]
   },
@@ -131,6 +103,23 @@
       {
         "label": "Paper in Commun. Earth Environ.",
         "url": "https://doi.org/10.1038/s43247-025-02044-3"
+      }
+    ]
+  },
+  {
+    "id": "catchment-science",
+    "title": "Nutrient exports",
+    "acronym": "",
+    "status": "completed",
+    "years": "2015 – 2025",
+    "theme": "catchments",
+    "summary": "Concentration-discharge relationships over thousands of river water quality stations to qunatify nutrient exports and understand mobilization and transport mechanisms",
+    "details": "",
+    "partners": "Rémi Dupas (INRAE-Rennes), Florentina Moatar (INRAE-Lyon)",
+    "links": [
+      {
+        "label": "Minaudo et al., Adv. Water Res., 2019",
+        "url": "https://doi.org/10.1016/j.advwatres.2019.103379"
       }
     ]
   },
